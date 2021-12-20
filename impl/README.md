@@ -1,0 +1,1 @@
+Directory for scripts used by Synopsys EDA tools 

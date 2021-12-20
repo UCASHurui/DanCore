@@ -1,0 +1,1 @@
+Directory for verilog files, constrains and other scripts for FPGA implementation

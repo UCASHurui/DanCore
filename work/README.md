@@ -1,0 +1,1 @@
+Workig directory for Synopsys EDA tools and FPGA tools 
